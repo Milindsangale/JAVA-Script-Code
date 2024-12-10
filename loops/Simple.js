@@ -9,3 +9,8 @@ for(let i=1;i<=n;i++){
     sum = sum + i;
     console.log("sum",sum);
 }
+
+
+for(let i=1;i<=10;i++){
+    console.log("Milind Raosaheb Sangale");
+}
