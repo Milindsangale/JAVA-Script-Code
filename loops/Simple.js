@@ -1,52 +1,54 @@
 // for loops
-for (let i=1;i<=5;i++){
-    console.log("i",i)
-}
+//for (let i=1;i<=5;i++){
+  //  console.log("i",i)
+//}
 
-let sum =0;
-let n =100;
-for(let i=1;i<=n;i++){
-    sum = sum + i;
-    console.log("sum",sum);
-}
+//let sum =0;
+//let n =100;
+//for(let i=1;i<=n;i++){
+ //   sum = sum + i;
+   // console.log("sum",sum);
+//}
 
 
-for(let i=1;i<=10;i++){
-    console.log("Milind");
-}
+//for(let i=1;i<=10;i++){
+///console.log("Milind");
+//}
 
 
 
 // fot-of loop
-let length =0;
-let str ="Milind";
-for(let i of str) {
+//let length =0;
+//let str ="Milind";
+//for(let i of str) {
   //  console.log("i=", i);
-    length++;
-    console.log("String length",length);
-}
+   // length++;
+   // console.log("String length",length);
+//}
 
 //for in loop
 
 
 //print all even numbers from 0 to 100
-for(let num=0; num<=100;num++){
+//for(let num=0; num<=100;num++){
    // console.log("num=",num);
-   if(num%2 ==0){
-    console.log("even number",num);
-   }
-}
+   //if(num%2 ==0){
+   // console.log("even number",num);
+ ///  }
+//}
 
 
 // game
-let gameNum = 100;
-let usernumner =prompt("Guess the number");
-while(usernumner != gameNum){
-   usernumner= prompt("you entered wrong number. Guess again :");
-}
-    console.log("congratulations you entered the rigt number");
+//let gameNum = 100;
+//let usernumner =prompt("Guess the number");
+//while(usernumner != gameNum){
+   //usernumner= prompt("you entered wrong number. Guess again :");
+//}
+    //console.log("congratulations you entered the rigt number");
 
+   // console.log("Milind");
+  //  console.log("Milind Raosaheb Sangale");
+  //  console.log("Milind ");
+  
 
-
-
-let Str = "Milind sangale";
+// Dom
